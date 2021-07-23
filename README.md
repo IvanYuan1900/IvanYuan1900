@@ -2,7 +2,7 @@
 
 ------
 **About me**
-- 🌱 a beginner in programming Python, Javascript, HTML
+- 🌱 a beginner in programming Python, Javascript, Web development
 
 
 
