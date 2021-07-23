@@ -2,7 +2,8 @@
 
 ------
 **About me**
-- 🌱 a beginner in programming Python, Javascript, Web development
+- 🌱 a beginner in Python, Javascript, Web development
+- 🤖 interesting in ML
 
 
 
