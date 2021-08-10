@@ -3,7 +3,7 @@
 ------
 **About me**
 - 🌱 a beginner in Python, Javascript, Web development
-- 🤖 interesting in ML
+- 🤖 interested in ML
 
 
 
